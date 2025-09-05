@@ -4,5 +4,5 @@ hi <- function(name = NULL) {
 }
 
 bye <- function() {
-  "bye"
+  "goodbye"
 }
