@@ -5,5 +5,5 @@ hi <- function(name = NULL) {
 
 # A unique bye function
 bye <- function() {
-  "bye bye"
+  "farewell"
 }
